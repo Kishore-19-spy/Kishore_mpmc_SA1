@@ -28,7 +28,7 @@ Personal computer with DOSBOX Software
 10.Stop the program.
 
 ## PROGRAM
-```
+```.asm
 .model small
 .stack 100h
 .data
