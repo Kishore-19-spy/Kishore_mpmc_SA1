@@ -90,3 +90,7 @@ end main
 ```
 
 ## OUTPUT
+<img width="630" height="400" alt="image" src="https://github.com/user-attachments/assets/0904b211-1423-431e-8c89-7e9beefd9c0c" />
+
+## RESULT
+Thus , the 8086 Assembly Language Program to check whether a given number is a palindrome or not has been successfully executed and output is verified.
